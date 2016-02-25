@@ -1,0 +1,42 @@
+Applications Memory Usage (kB):
+Uptime: 17613396 Realtime: 238847997
+
+** MEMINFO in pid 24735 [com.alibaba.openIMUIDemo] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap        0        0        0        0    20480    13366     7113
+  Dalvik Heap    17305    17212        0     1220    17315    14875     2440
+ Dalvik Other      602      596        0        0                           
+        Stack      336      336        0        0                           
+       Cursor       48       48        0        0                           
+      Gfx dev     8132     7680        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap      910      156      168     1340                           
+    .apk mmap      163        0       88        0                           
+    .ttf mmap      240        0       32        0                           
+    .dex mmap     5964        0     4968        0                           
+    .oat mmap     1201        0      136        0                           
+    .art mmap     1728     1072       68      208                           
+   Other mmap       61        4       32        0                           
+   EGL mtrack    49920    49920        0        0                           
+    GL mtrack    14964    14964        0        0                           
+      Unknown    10234    10216        0     1188                           
+        TOTAL   111813   102204     5496     3956    37795    28241     9553
+ 
+ Objects
+               Views:      426         ViewRootImpl:        1
+         AppContexts:        5           Activities:        2
+              Assets:        3        AssetManagers:        3
+       Local Binders:       27        Proxy Binders:       32
+       Parcel memory:       12         Parcel count:       49
+    Death Recipients:        0      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:      589
+  PAGECACHE_OVERFLOW:      300          MALLOC_SIZE:       62
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)          cache  Dbname
+         4       48             21         1/16/2  /data/data/com.alibaba.openIMUIDemo/databases/MsgLogStore.db
+         4      172            354      294/53/25  /data/data/com.alibaba.openIMUIDemo/databases/3108d73ac2f40e3d60c5ebae00112504

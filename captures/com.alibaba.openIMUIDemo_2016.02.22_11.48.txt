@@ -1,0 +1,206 @@
+CURRENT STATS:
+System memory usage:
+  SOff/Norm: 3 samples:
+    Cached: 540MB min, 588MB avg, 613MB max
+    Free: 114MB min, 176MB avg, 266MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 160MB min, 167MB avg, 171MB max
+    Native: 132MB min, 139MB avg, 143MB max
+
+Per-Package Stats:
+  * com.alibaba.openIMUIDemo / u0a954 / v1:
+      * com.alibaba.openIMUIDemo:TcmsService / u0a954 / v1:
+               TOTAL: 19% (5.8MB-6.3MB-6.8MB/4.0MB-4.4MB-4.9MB over 4)
+             Service: 19% (5.8MB-6.3MB-6.8MB/4.0MB-4.4MB-4.9MB over 4)
+      * com.alibaba.openIMUIDemo / u0a954 / v1:
+               TOTAL: 20% (1.9MB-109MB-157MB/1.3MB-104MB-151MB over 14)
+                 Top: 19% (1.9MB-112MB-157MB/1.3MB-107MB-151MB over 13)
+             Service: 0.33% (68MB-68MB-68MB/62MB-62MB-62MB over 1)
+      * com.alibaba.tcms.service.TCMSService:
+        Process: com.alibaba.openIMUIDemo:TcmsService
+            Running count 3 / time 19%
+            Started count 3 / time 19%
+          Executing count 35 / time 0.03%
+      * com.alibaba.tcms.service.ListenerService:
+        Process: com.alibaba.openIMUIDemo
+            Running count 3 / time 19%
+            Started count 3 / time 19%
+          Executing count 2 / time 0.01%
+
+Summary:
+  * com.alibaba.openIMUIDemo / u0a954 / v1:
+           TOTAL: 20% (1.9MB-109MB-157MB/1.3MB-104MB-151MB over 14)
+             Top: 19% (1.9MB-112MB-157MB/1.3MB-107MB-151MB over 13)
+         Service: 0.33% (68MB-68MB-68MB/62MB-62MB-62MB over 1)
+  * com.alibaba.openIMUIDemo:TcmsService / u0a954 / v1:
+           TOTAL: 19% (5.8MB-6.3MB-6.8MB/4.0MB-4.4MB-4.9MB over 4)
+         Service: 19% (5.8MB-6.3MB-6.8MB/4.0MB-4.4MB-4.9MB over 4)
+
+Run time Stats:
+  SOff/Norm: +12m15s3ms
+  SOn /Norm: +1h10m22s271ms (running)
+      TOTAL: +1h22m37s274ms
+
+Memory usage:
+  Kernel : 167MB (24 samples)
+  Native : 139MB (24 samples)
+  Persist: 333MB (94 samples)
+  Top    : 173MB (110 samples)
+  ImpFg  : 168MB (286 samples)
+  ImpBg  : 82MB (54 samples)
+  Service: 168MB (581 samples)
+  Receivr: 91KB (568 samples)
+  Home   : 113MB (16 samples)
+  LastAct: 4.2MB (38 samples)
+  CchAct : 156MB (31 samples)
+  CchCAct: 573 (11 samples)
+  CchEmty: 192MB (631 samples)
+  Cached : 588MB (24 samples)
+  Free   : 176MB (24 samples)
+  TOTAL  : 2.4GB
+  ServRst: 2.5KB (53 samples)
+
+          Start time: 2016-02-22 10:26:00
+  Total elapsed time: +1h22m37s299ms (partial) libart.so
+
+AGGREGATED OVER LAST 24 HOURS:
+System memory usage:
+  SOff/Norm: 3 samples:
+    Cached: 540MB min, 588MB avg, 613MB max
+    Free: 114MB min, 176MB avg, 266MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 160MB min, 167MB avg, 171MB max
+    Native: 132MB min, 139MB avg, 143MB max
+  SOn /Norm: 1 samples:
+    Cached: 608MB min, 608MB avg, 608MB max
+    Free: 201MB min, 201MB avg, 201MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 167MB min, 167MB avg, 167MB max
+    Native: 143MB min, 143MB avg, 143MB max
+
+Per-Package Stats:
+  * com.alibaba.openIMUIDemo / u0a954 / v1:
+      * com.alibaba.openIMUIDemo:TcmsService / u0a954 / v1:
+               TOTAL: 11% (5.8MB-6.3MB-6.8MB/4.0MB-4.4MB-4.9MB over 4)
+             Service: 11% (5.8MB-6.3MB-6.8MB/4.0MB-4.4MB-4.9MB over 4)
+      * com.alibaba.openIMUIDemo / u0a954 / v1:
+               TOTAL: 11% (1.9MB-109MB-157MB/1.3MB-104MB-151MB over 14)
+                 Top: 11% (1.9MB-112MB-157MB/1.3MB-107MB-151MB over 13)
+             Service: 0.19% (68MB-68MB-68MB/62MB-62MB-62MB over 1)
+      * com.alibaba.tcms.service.TCMSService:
+        Process: com.alibaba.openIMUIDemo:TcmsService
+            Running count 3 / time 11%
+            Started count 3 / time 11%
+          Executing count 35 / time 0.02%
+      * com.alibaba.tcms.service.ListenerService:
+        Process: com.alibaba.openIMUIDemo
+            Running count 3 / time 11%
+            Started count 3 / time 11%
+          Executing count 2 / time 0.00%
+
+Summary:
+  * com.alibaba.openIMUIDemo / u0a954 / v1:
+           TOTAL: 11% (1.9MB-109MB-157MB/1.3MB-104MB-151MB over 14)
+             Top: 11% (1.9MB-112MB-157MB/1.3MB-107MB-151MB over 13)
+         Service: 0.19% (68MB-68MB-68MB/62MB-62MB-62MB over 1)
+  * com.alibaba.openIMUIDemo:TcmsService / u0a954 / v1:
+           TOTAL: 11% (5.8MB-6.3MB-6.8MB/4.0MB-4.4MB-4.9MB over 4)
+         Service: 11% (5.8MB-6.3MB-6.8MB/4.0MB-4.4MB-4.9MB over 4)
+
+Run time Stats:
+  SOff/Norm: +34m55s836ms
+  SOn /Norm: +1h48m5s368ms
+      TOTAL: +2h23m1s204ms
+
+Memory usage:
+  Kernel : 167MB (31 samples)
+  Native : 140MB (31 samples)
+  Persist: 329MB (143 samples)
+  Top    : 148MB (207 samples)
+  ImpFg  : 169MB (437 samples)
+  ImpBg  : 80MB (91 samples)
+  Service: 166MB (1047 samples)
+  Receivr: 93KB (1122 samples)
+  Home   : 115MB (29 samples)
+  LastAct: 15MB (78 samples)
+  CchAct : 162MB (46 samples)
+  CchCAct: 332 (15 samples)
+  CchEmty: 201MB (878 samples)
+  Cached : 592MB (31 samples)
+  Free   : 180MB (31 samples)
+  TOTAL  : 2.4GB
+  ServRst: 22KB (89 samples)
+
+          Start time: 2016-02-21 08:00:05
+  Total elapsed time: +1d3h48m31s448ms (partial) libart.so
+
+AGGREGATED OVER LAST 3 HOURS:
+System memory usage:
+  SOff/Norm: 3 samples:
+    Cached: 540MB min, 588MB avg, 613MB max
+    Free: 114MB min, 176MB avg, 266MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 160MB min, 167MB avg, 171MB max
+    Native: 132MB min, 139MB avg, 143MB max
+  SOn /Norm: 1 samples:
+    Cached: 608MB min, 608MB avg, 608MB max
+    Free: 201MB min, 201MB avg, 201MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 167MB min, 167MB avg, 167MB max
+    Native: 143MB min, 143MB avg, 143MB max
+
+Per-Package Stats:
+  * com.alibaba.openIMUIDemo / u0a954 / v1:
+      * com.alibaba.openIMUIDemo:TcmsService / u0a954 / v1:
+               TOTAL: 11% (5.8MB-6.3MB-6.8MB/4.0MB-4.4MB-4.9MB over 4)
+             Service: 11% (5.8MB-6.3MB-6.8MB/4.0MB-4.4MB-4.9MB over 4)
+      * com.alibaba.openIMUIDemo / u0a954 / v1:
+               TOTAL: 11% (1.9MB-109MB-157MB/1.3MB-104MB-151MB over 14)
+                 Top: 11% (1.9MB-112MB-157MB/1.3MB-107MB-151MB over 13)
+             Service: 0.19% (68MB-68MB-68MB/62MB-62MB-62MB over 1)
+      * com.alibaba.tcms.service.TCMSService:
+        Process: com.alibaba.openIMUIDemo:TcmsService
+            Running count 3 / time 11%
+            Started count 3 / time 11%
+          Executing count 35 / time 0.02%
+      * com.alibaba.tcms.service.ListenerService:
+        Process: com.alibaba.openIMUIDemo
+            Running count 3 / time 11%
+            Started count 3 / time 11%
+          Executing count 2 / time 0.00%
+
+Summary:
+  * com.alibaba.openIMUIDemo / u0a954 / v1:
+           TOTAL: 11% (1.9MB-109MB-157MB/1.3MB-104MB-151MB over 14)
+             Top: 11% (1.9MB-112MB-157MB/1.3MB-107MB-151MB over 13)
+         Service: 0.19% (68MB-68MB-68MB/62MB-62MB-62MB over 1)
+  * com.alibaba.openIMUIDemo:TcmsService / u0a954 / v1:
+           TOTAL: 11% (5.8MB-6.3MB-6.8MB/4.0MB-4.4MB-4.9MB over 4)
+         Service: 11% (5.8MB-6.3MB-6.8MB/4.0MB-4.4MB-4.9MB over 4)
+
+Run time Stats:
+  SOff/Norm: +34m55s836ms
+  SOn /Norm: +1h48m5s434ms
+      TOTAL: +2h23m1s270ms
+
+Memory usage:
+  Kernel : 167MB (31 samples)
+  Native : 140MB (31 samples)
+  Persist: 329MB (143 samples)
+  Top    : 148MB (207 samples)
+  ImpFg  : 169MB (437 samples)
+  ImpBg  : 80MB (91 samples)
+  Service: 166MB (1047 samples)
+  Receivr: 93KB (1122 samples)
+  Home   : 115MB (29 samples)
+  LastAct: 15MB (78 samples)
+  CchAct : 162MB (46 samples)
+  CchCAct: 332 (15 samples)
+  CchEmty: 201MB (878 samples)
+  Cached : 592MB (31 samples)
+  Free   : 180MB (31 samples)
+  TOTAL  : 2.4GB
+  ServRst: 22KB (89 samples)
+
+          Start time: 2016-02-21 08:00:05
+  Total elapsed time: +1d3h48m31s514ms (partial) libart.so
